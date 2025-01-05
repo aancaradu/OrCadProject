@@ -13,8 +13,8 @@ sistemul se va proiecta astfel încât greutatea raftului să se mențină în i
 Variația liniară a rezistenței electrice a senzorului cu greutatea este specificată în coloana G și 
 trebuie convertită într-o variație de tensiune în domeniul [0÷(Vcc-2V)]. Greutatea raftului este menținută în domeniul dat prin semnalizarea cu ajutorul unui LED, 
 care are culoarea specificată în tabel
-
-Parameters: <br>
+<br>
+Parameters: <br><br>
 Measurable weight range [kg]: 20-110<br>
 Weight of shelf [kg]: 80-100<br>
 Sensor resistance [kΩ]: 18-47<br>
