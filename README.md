@@ -14,9 +14,9 @@ Variația liniară a rezistenței electrice a senzorului cu greutatea este speci
 trebuie convertită într-o variație de tensiune în domeniul [0÷(Vcc-2V)]. Greutatea raftului este menținută în domeniul dat prin semnalizarea cu ajutorul unui LED, 
 care are culoarea specificată în tabel
 
-Parameters: 
-Measurable weight range [kg]: 20-110
-Weight of shelf [kg]: 80-100
-Sensor resistance [kΩ]: 18-47
-VCC [V]: 12
+Parameters: <br>
+Measurable weight range [kg]: 20-110<br>
+Weight of shelf [kg]: 80-100<br>
+Sensor resistance [kΩ]: 18-47<br>
+VCC [V]: 12<br>
 LED Color: Yellow
