@@ -2,7 +2,7 @@
 
 Project Author: Radu Anca-Valentina<br>
 Subject: Computer Aided Design<br>
-University: Faculty of Electrical Engineering and Information Technology<br>
+University: Faculty of Electrical Engineering and Information Technology<br><br>
 
 En: Design a system for controlling the weight supported by a shelf dedicated to the storage of metal bars. 
 Knowing that the weight sensor used can measure weight linearly within the range specified in column E of the table, 
