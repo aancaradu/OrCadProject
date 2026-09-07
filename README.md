@@ -48,4 +48,4 @@ Designed and simulated in OrCAD Capture / PSpice, including DC sweep, transient,
 
 ## Documentation
 
-Full write-up with schematics, calculations, and simulation results: [CAD_PROJECT_RADU_ANCA_documentation.pdf](./CAD_PROJECT_RADU_ANCA_documentation.pdf)
+Full development documentation with schematics, calculations, and simulation results: [CAD_PROJECT_RADU_ANCA_documentation.pdf](./CAD_PROJECT_RADU_ANCA_documentation.pdf)
